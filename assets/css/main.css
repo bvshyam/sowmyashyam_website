@@ -33,6 +33,12 @@ body {
 	line-height: 1;
 }
 
+.fa-building {
+	color : #4acaa8;
+}
+
+
+
 ol, ul {
 	list-style: none;
 }
